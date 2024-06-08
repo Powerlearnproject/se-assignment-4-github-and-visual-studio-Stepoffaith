@@ -68,3 +68,11 @@ Debugging Tools.
 Fix Issues.
 Continue Execution.
 By integrating a GitHub repository with Visual Studio and utilizing its debugging features, developers can streamline their development workflow, collaborate more efficiently, and debug code effectively to deliver high-quality software products.
+9. Visual Studio's debugging tools:
+Breakpoints are markers that developers can place in their code to pause program execution at a specific line.
+Watch Windows allow developers to monitor the values of variables and expressions during debugging. 
+Locals Windows display the values of variables and parameters in the current scope.
+The Immediate Window allows developers to interactively execute code snippets during debugging.
+The Call Stack Window displays the hierarchy of method calls that led to the current point in code execution. 
+Visual Studio provides options to configure how exceptions are handled during debugging. Developers can choose to break on specific exceptions, which helps in identifying and addressing error conditions effectively.
+10. 
