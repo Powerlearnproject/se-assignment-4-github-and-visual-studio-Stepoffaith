@@ -44,4 +44,6 @@ Navigate to repository and select option to create a new pull request targeting 
 Provide clear title and description of the changes you made in the pull request.
 Submit pull request, signaling that it is ready for review.
 GitHub Actions is a feature that enables automating workflows, like continuous integration/continuous deployment (CI/CD), in your GitHub repository. This automation helps streamline tasks like building, testing, and deploying code. You can create custom workflows using YAML files that define the sequence of steps to be executed.
-6. 
+6. GitHub Actions is a powerful tool that allows you to automate various workflows directly within your GitHub repository. It enables you to build, test, and deploy your code right from your repository, eliminating the need for external continuous integration (CI) and continuous deployment (CD) tools.
+With GitHub Actions, you can define custom workflows using YAML syntax, known as workflows, that specify the sequence of steps to be executed. These workflows can be triggered by various events, such as pushing code to a specific branch, creating a pull request, or scheduling actions to run at specific times.
+7. 
