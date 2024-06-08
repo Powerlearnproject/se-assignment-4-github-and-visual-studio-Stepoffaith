@@ -20,4 +20,8 @@ Add files to the Repository:
      git add .
      git commit -m "Initial commit"
      git push origin master
-3. 
+3. Version control is a system that records changes to files over time.
+One of the key features of Git is branching, which allows developers to create separate lines of development. Branches enable developers to work on different features or bug fixes without affecting the main project until they are ready to merge their changes back in.
+GitHub offers a range of features that improve version control workflows, such as pull requests, issues, code reviews, and project management tools. Pull requests allow developers to propose changes, review code, and discuss modifications before merging them into the main project.
+Branching and merging are essential features in Git and GitHub, enabling developers to work on projects concurrently, collaborate effectively, and manage changes seamlessly. Developers can create branches to work on specific features or fixes, make modifications, then merge those changes back into the main branch when they are ready.
+4. 
