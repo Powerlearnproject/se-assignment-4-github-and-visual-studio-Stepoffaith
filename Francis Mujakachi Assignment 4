@@ -24,4 +24,15 @@ Add files to the Repository:
 One of the key features of Git is branching, which allows developers to create separate lines of development. Branches enable developers to work on different features or bug fixes without affecting the main project until they are ready to merge their changes back in.
 GitHub offers a range of features that improve version control workflows, such as pull requests, issues, code reviews, and project management tools. Pull requests allow developers to propose changes, review code, and discuss modifications before merging them into the main project.
 Branching and merging are essential features in Git and GitHub, enabling developers to work on projects concurrently, collaborate effectively, and manage changes seamlessly. Developers can create branches to work on specific features or fixes, make modifications, then merge those changes back into the main branch when they are ready.
-4. 
+4. To create a branch, you navigate to your project repository on GitHub and click on the Branch button.
+   Enter a new branch name
+Switch to the newly created branch in your local development environment using Git commands.
+Make changes to the code, add new features, or fix issues within this branch.
+Pushing Changes, Once you've made the changes, stage and commit them using Git commands (`git add .` and `git commit -m "Your commit message"`).
+Push the changes to the remote repository with `git push origin branch-name`.
+To merge the changes back into the main branch (usually `main` or `master`), create a pull request.
+In the pull request, compare your branch with the main branch, review the changes, and provide context and details about the changes made.
+Once the changes have been reviewed and approved, the branch can be merged into the main branch.
+Pull Requests serve as a formal mechanism for discussing and reviewing proposed changes.
+Team members can review the changes made on the branch, ask questions, suggest improvements, and ensure the quality of the code before merging.
+5. 
