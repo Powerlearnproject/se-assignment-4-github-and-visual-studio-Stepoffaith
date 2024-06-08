@@ -4,4 +4,20 @@ Collaboration Tools:  GitHub provides features like pull requests, which allow d
 Branching and Merging: Developers can create branches in a repository to work on new features or bug fixes without affecting the main codebase. Once the changes are tested and approved, they can be merged back into the main branch.
 Issues and Projects: GitHub's issue tracker allows team members to report bugs, request features, and discuss tasks related to the project. Projects feature helps in organizing and prioritizing tasks, tracking progress, and assigning work to team members.
 Forks and Cloning:  Developers can fork a repository to create a personal copy of the project, make changes independently, and then submit a pull request to contribute back to the original project. Cloning allows developers to download a copy of a repository to their local machine for development.
-2. 
+2. Login to GitHub. Create a New Repository
+   Click on the + icon in the top-right corner and select new repository.
+   Enter name for repository.
+   make public or private.
+   Add description and select  additional options like initializing with a README file.
+   Click on the Create repository button.
+Clone the Repository:  Once you have created the repository, you can clone it to your local machine using the repository URL provided.
+Set Up Git:
+   Install Git on your local machine.
+   Configure Git with name and email.
+Add files to the Repository:
+   Create or move the files you want to include in your project into the repository on your local machine.
+   Use the following commands such as
+     git add .
+     git commit -m "Initial commit"
+     git push origin master
+3. 
