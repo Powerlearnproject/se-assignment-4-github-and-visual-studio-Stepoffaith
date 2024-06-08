@@ -75,4 +75,12 @@ Locals Windows display the values of variables and parameters in the current sco
 The Immediate Window allows developers to interactively execute code snippets during debugging.
 The Call Stack Window displays the hierarchy of method calls that led to the current point in code execution. 
 Visual Studio provides options to configure how exceptions are handled during debugging. Developers can choose to break on specific exceptions, which helps in identifying and addressing error conditions effectively.
-10. 
+10. GitHub and Visual Studio can be used together to support collaborative development by leveraging the integration between the two platforms. Visual Studio is a popular integrated development environment (IDE) used for building various types of applications, while GitHub is a widely used platform for hosting code repositories and facilitating collaboration among developers.
+Through Version Control GitHub provides a centralized location for storing code repositories, enabling developers to easily manage and track changes to code.
+Collaboration With GitHub, multiple developers can collaborate on a project simultaneously.
+GitHub's code review features, such as comments and suggestions on code changes, can be accessed directly within Visual Studio.
+Automated Workflows in GitHub Actions can be used to automate build, test, and deployment workflows for projects hosted on GitHub.
+Issue Tracking.
+One real-world example of a project that benefits from the integration of GitHub and Visual Studio is a web application development project. In this scenario, developers use Visual Studio to write code, debug applications, and test changes locally. They can then push their code changes to a GitHub repository right from within Visual Studio.
+As different team members work on various features or bug fixes, they can create branches in the GitHub repository, make their changes, and submit pull requests for review. Code reviews can be conducted using Visual Studio's GitHub integration, allowing developers to address feedback and ensure code quality before merging changes into the main branch.
+Automated build and deployment workflows can be set up using GitHub Actions, triggered by events such as code merges or pull requests being opened. This ensures that the project stays up-to-date, tested, and deployable at all times.
