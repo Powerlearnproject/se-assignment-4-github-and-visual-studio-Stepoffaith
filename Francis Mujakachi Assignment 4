@@ -35,4 +35,13 @@ In the pull request, compare your branch with the main branch, review the change
 Once the changes have been reviewed and approved, the branch can be merged into the main branch.
 Pull Requests serve as a formal mechanism for discussing and reviewing proposed changes.
 Team members can review the changes made on the branch, ask questions, suggest improvements, and ensure the quality of the code before merging.
-5. 
+5. A pull request in GitHub is a mechanism that allows developers to propose changes to a repository by submitting a dedicated branch containing the modifications. This feature facilitates collaboration among team members and enables code reviews before merging the changes into the main branch.
+Begin by creating a new branch from the main branch where you plan to make your changes.
+Make the necessary changes to the codebase within your new branch.
+Commit changes. 
+Push branch to remote repository.
+Navigate to repository and select option to create a new pull request targeting the main branch.
+Provide clear title and description of the changes you made in the pull request.
+Submit pull request, signaling that it is ready for review.
+GitHub Actions is a feature that enables automating workflows, like continuous integration/continuous deployment (CI/CD), in your GitHub repository. This automation helps streamline tasks like building, testing, and deploying code. You can create custom workflows using YAML files that define the sequence of steps to be executed.
+6. 
